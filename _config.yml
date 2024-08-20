@@ -16,7 +16,7 @@ header:
 footer:
  name: "Hi!, my name is Carol"
  bio: "I am a passionate photography enthusiast based in San Jose, CA, specializing in portrait photography. Feel free to contact me if you're interested in my work!"
-# web_design: "AS"
+web_design: "AS"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
