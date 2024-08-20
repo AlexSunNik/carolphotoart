@@ -1,7 +1,7 @@
 # Base configs
 # baseurl: "https://carolphotoart.com"
-baseurl: https://alexsunnik.github.io/carolphotoart/
-# baseurl: "" # Comment the above line and uncomment this to test the website locally
+# baseurl: https://alexsunnik.github.io/carolphotoart/
+baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
@@ -15,8 +15,8 @@ header:
  subtitle: "by Carol Song"
 footer:
  name: "Hi!, my name is Carol"
- bio: "I am a photography hobbist based in San Jose, CA. I enjoy taking portrait photos. Contact me if interested in my works!"
-web_design: "AS"
+ bio: "I am a passionate photography enthusiast based in San Jose, CA, specializing in portrait photography. Feel free to contact me if you're interested in my work!"
+# web_design: "AS"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
